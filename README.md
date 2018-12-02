@@ -16,7 +16,7 @@
 
 # Usage
 
-For a complete, runnable example, see [/examples/Superhero.cs].
+For a complete, runnable example, see `/examples/Superhero.cs`.
 
 Doctest.Interactive operates upon two kinds of objects: `spec`s, and `refinement`s.  
 
