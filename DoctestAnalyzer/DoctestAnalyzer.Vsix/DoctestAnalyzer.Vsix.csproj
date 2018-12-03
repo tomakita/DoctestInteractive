@@ -72,17 +72,6 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Reference Include="Buildalyzer, Version=2.1.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Buildalyzer.2.1.0\lib\netstandard2.0\Buildalyzer.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="Buildalyzer.Logger, Version=2.1.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Buildalyzer.Logger.2.1.0\lib\netstandard1.3\Buildalyzer.Logger.dll</HintPath>
-    </Reference>
-    <Reference Include="Buildalyzer.Workspaces, Version=2.1.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Buildalyzer.Workspaces.2.1.0\lib\netstandard2.0\Buildalyzer.Workspaces.dll</HintPath>
-      <Private>True</Private>
-    </Reference>
     <Reference Include="DoctestGeneratorF, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\DoctestGeneratorF\DoctestGeneratorF\bin\Release\DoctestGeneratorF.dll</HintPath>

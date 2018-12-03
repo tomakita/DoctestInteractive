@@ -34,7 +34,7 @@ Specs and refinements have access to all types in FsCheck, as well as all types 
 
 ![Scope Example](visuals/scope_ex.png)
 
-DoctestInteractive is currently in beta.  If you encounter instability when using it, check the log files located in `%LocalAppData%\Microsoft\VisualStudio\<your version of VS>\Extensions\<wherever VS chose to install DoctestInteractive>`.  Feel free to open issues for bug reports, feature requests, or any other feedback!
+DoctestInteractive is currently in beta.  If you encounter instability when using it, check the log files located in `<Visual Studio install location>/Common7/IDE/analyzer_log-<date>.txt`.  Feel free to open issues for bug reports, feature requests, or any other feedback!
 
 # Limitations & Planned Improvements
 
