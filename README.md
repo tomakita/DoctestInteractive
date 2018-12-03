@@ -6,11 +6,11 @@
 
 # Demo Video
 
-[![demo](visuals/demo_thumbnail.png)](https://www.youtube.com/ "DoctestInteractive Demo Video")
+[![demo](visuals/demo_thumbnail.png)](https://youtu.be/w6VAqLa3_o0 "DoctestInteractive Demo Video")
 
 # How to Get It
 
-- On the Visual Studio Marketplace as "DoctestInteractive"
+- On the Visual Studio Marketplace: [DoctestInteractive](https://marketplace.visualstudio.com/items?itemName=TomAkita.doctestinteractive)
 - Has only been tested using Visual Studio 2017
 - For use with .NET Framework 4.6.1 and up
 
